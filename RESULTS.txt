@@ -1,0 +1,33 @@
+ --- Normal fill takes takes: 273 ms
+ --- Native fill takes takes: 257 ms
+ --- Collided fill takes takes: 22416 ms
+First element: ru.devvault.NativeObject@635033cc
+ --- Native first query takes: 4 ms
+Mid element: ru.devvault.NativeObject@4557a29c
+ --- Native mid query takes: 2 ms
+Last element: ru.devvault.NativeObject@3c8fe929
+ --- Native last query takes: 0 ms
+First element: ru.devvault.CollidedObject@1
+ --- Collided first query takes: 2 ms
+Mid element: ru.devvault.CollidedObject@1
+ --- Collided mid query takes: 0 ms
+Last element: ru.devvault.CollidedObject@1
+ --- Collided last query takes: 4 ms
+First element: ru.devvault.NormalObject@708baa7d
+ --- Normal first query takes: 0 ms
+Mid element: ru.devvault.NormalObject@281f2059
+ --- Normal mid query takes: 0 ms
+Last element: ru.devvault.NormalObject@282f2c3f
+ --- Normal last query takes: 0 ms
+Native put element: null
+ --- Native put element takes: 5 ms
+Collided put element: ru.devvault.CollidedObject@1
+ --- Collided put element takes: 0 ms
+Normal put element: ru.devvault.NormalObject@5c236f3e
+ --- Normal put element takes: 0 ms
+Native remove element: ru.devvault.NativeObject@635033cc
+ --- Native remove first element takes: 9 ms
+Collided remove element: ru.devvault.CollidedObject@1
+ --- Collided remove first element takes: 0 ms
+Normal remove element: ru.devvault.NormalObject@708baa7d
+ --- Normal remove first element takes: 0 ms
